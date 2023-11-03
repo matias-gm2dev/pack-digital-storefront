@@ -1,7 +1,7 @@
 export const MyTestSection = ({cms}: any) => {
   return (
     <div>
-      <p className="blue-500">{cms.howdy}</p>
+      <p className="blue-500 bg-white">{cms.howdy}</p>
     </div>
   );
 };
