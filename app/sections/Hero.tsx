@@ -30,7 +30,7 @@ export const Hero = ({cms}: any) => {
             </Link>
           )}
         </div>
-        <span> HOLA MUNDO !!!</span>
+        <span> HOLA Jonassss !!!</span>
         <div className="absolute inset-0 bg-gray-500 opacity-50" />
       </div>
     </div>
