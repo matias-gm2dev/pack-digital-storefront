@@ -2,6 +2,7 @@ export const MyTestSection = ({cms}: any) => {
   return (
     <div>
       <p>{cms.howdy}</p>
+      <span>Hola Mundo!</span>
     </div>
   );
 };
